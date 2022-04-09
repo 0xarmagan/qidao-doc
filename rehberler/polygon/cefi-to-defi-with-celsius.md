@@ -41,7 +41,7 @@ Hesabınız oluşturulduktan sonra, web uygulamasında hızlı bir tur atmaktan 
 
 Bu kılavuz için ETH'e odaklanacağız ve ayrıca Ethereum Mainnet'te Celsius'a köprülemek istediğiniz bir miktar Ether'iniz olduğunu varsayacağız. Web uygulamasından Al (`Receive`) sekmesine tıklamanız yeterlidir.
 
-![4 basit adımda Celsius hesabınızdan ETH alma](<../../.gitbook/assets/Celsius-Coinbase-0.png>)
+![4 adımda Celsius hesabınızdan ETH alma](<../../.gitbook/assets/Celsius-Coinbase-0.png>)
 
 İlk adım, almak istediğiniz coin’i seçmektir. Bizim durumumuzda, ETH almak istiyoruz ve bunun için yapacağımız tek şey Yeni Coin Ekle’ye (`Add New Coins`) tıklayıp menüden ETH'i seçmek.
 
